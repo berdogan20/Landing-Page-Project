@@ -1,0 +1,9 @@
+#places .items{
+    flex-direction: column;
+}
+
+#places .items .item{
+    margin: 2rem;
+    padding: 0;
+    width: 100%;
+}

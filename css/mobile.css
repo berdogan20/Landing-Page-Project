@@ -1,0 +1,20 @@
+#places{
+    flex-direction: column;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#places ul li{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+#places .items{
+    flex-direction: column;
+}
+
+#places .items .item{
+    margin: 2rem;
+    padding: 0;
+    width: 100%;
+}

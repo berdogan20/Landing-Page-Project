@@ -1,0 +1,73 @@
+.text-center{
+    text-align: center;
+}
+
+/*Text*/
+
+.heading-small{
+    font-size: 1.25rem;
+}
+
+.heading-medium{
+    font-size: 1.5rem;
+}
+
+.heading-big{
+    font-size: 1.75rem;
+}
+
+/*Colors*/
+
+.bg-dark-green{
+    background-color: rgb(9, 29, 9);
+}
+
+.bg-light-green{
+    background-color: rgb(38, 61, 38);
+}
+
+/*Container*/
+
+.container{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+/*Button*/
+
+.btn{
+    background-color: rgb(8, 35, 8);
+    margin-top: 1.5rem;
+    padding: 0.75rem;
+    border-radius: 1rem;
+    border: 1px solid green;
+}
+
+.btn:hover{
+    background-color: rgb(11, 71, 11);
+    margin-top: 1.5rem;
+    padding: 0.75rem;
+    border-radius: 1rem; 
+    color: white;
+}
+
+/* Forms */
+
+.form-group {
+    padding: 0.25rem 0;
+  }
+  .form-group label {
+    display: block;
+  }
+  .form-control {
+    width: 100%;
+    padding: 0.4rem;
+    font-size: 1rem;
+    resize: none;
+    border-radius: 5px;
+  }
+  
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
